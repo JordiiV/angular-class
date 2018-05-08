@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd961d5-0bdf-4a61-b5d6-170abbdedc88" name="Default" comment="">
+    <list default="true" id="6bd961d5-0bdf-4a61-b5d6-170abbdedc88" name="Default" comment="Remove .idea">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/angular-class.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -232,7 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525730586563</updated>
       <workItem from="1525730587699" duration="218000" />
-      <workItem from="1525732506163" duration="3494000" />
+      <workItem from="1525732506163" duration="3583000" />
     </task>
     <task id="LOCAL-00001" summary="Add all files">
       <created>1525757236056</created>
@@ -248,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525757641899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove .idea">
+      <created>1525757745641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525757745641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3712000" />
+    <option name="totallyTimeSpent" value="3801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -285,7 +295,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all files" />
+    <MESSAGE value="Remove .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
